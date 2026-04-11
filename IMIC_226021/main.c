@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+#include "thuvien.h"
 
 void main()
 {
-	printf("hello world \n");
+	function_buoi_1();
 }
