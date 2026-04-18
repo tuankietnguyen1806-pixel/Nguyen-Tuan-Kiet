@@ -21,6 +21,21 @@
     <ClCompile Include="buoi1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="buoi2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buoi2_bai1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buoi2_bai2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buoi2_bai3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buoi2_bai4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="thuvien.h">
