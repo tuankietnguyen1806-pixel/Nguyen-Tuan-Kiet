@@ -1,9 +1,7 @@
 #include <stdio.h>
-
-
-void  buoi2_bai4();
+#include "thuvien.h"
 
 void main()
 {
-	buoi2_bai4();
+	buoi2_bai12();
 }
